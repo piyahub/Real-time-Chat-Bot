@@ -35,8 +35,16 @@ A powerful, modern real-time chat application built using the **MERN stack**. Ch
 
 ## 📸 Screenshots
 
-![Screenshot 2025-07-08 130602](https://github.com/user-attachments/assets/aab051d7-de71-49bc-94a2-3be3144f4a0e)
+<img width="1655" height="1080" alt="Screenshot 2025-07-13 135728" src="https://github.com/user-attachments/assets/b1a95bd4-bad1-4309-a740-4abade21ff6e" />
 
-![Screenshot 2025-07-08 130801](https://github.com/user-attachments/assets/4837638a-76b1-4b41-b251-564e5912a4c2)
+<img width="1755" height="1052" alt="Screenshot 2025-07-13 135750" src="https://github.com/user-attachments/assets/035c63dc-7d95-44fa-abff-af2f502081ed" />
+
+<img width="1747" height="1009" alt="Screenshot 2025-07-13 135820" src="https://github.com/user-attachments/assets/14039b67-97fc-476f-acac-d738f28e18d4" />
+
+<img width="1897" height="1018" alt="Screenshot 2025-07-13 135715" src="https://github.com/user-attachments/assets/b2ada7b4-3454-496c-962b-a93741a15114" />
+
+
+
+
 
 
