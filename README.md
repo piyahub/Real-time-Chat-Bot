@@ -9,7 +9,7 @@ A powerful, modern real-time chat application built using the **MERN stack**. Ch
 ✅ Live: [https://real-time-chat-bot.onrender.com]
 
 
-
+✨Please STAR my repo ✨
 
 ## 🚀 Tech Stack Used
 
