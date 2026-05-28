@@ -39,7 +39,7 @@ A powerful, modern real-time chat application built using the **MERN stack**. Ch
 
 <img width="1747" height="1009" alt="Screenshot 2025-07-13 135820" src="https://github.com/user-attachments/assets/14039b67-97fc-476f-acac-d738f28e18d4" />
 
-<img width="1897" height="1018" alt="Screenshot 2025-07-13 135715" src="https://github.com/user-attachments/assets/b2ada7b4-3454-496c-962b-a93741a15114" />
+<!-- <img width="1897" height="1018" alt="Screenshot 2025-07-13 135715" src="https://github.com/user-attachments/assets/b2ada7b4-3454-496c-962b-a93741a15114" /> -->
 
 
 
